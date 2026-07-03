@@ -18,15 +18,15 @@
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/saurav856">
+<a href="https://github.com/iamsauravgc">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=saurav856\&style=for-the-badge\&color=7C3AED)
-![](https://img.shields.io/github/followers/saurav856?style=for-the-badge\&color=7C3AED)
-![](https://img.shields.io/github/stars/saurav856?style=for-the-badge\&color=7C3AED)
+![](https://komarev.com/ghpvc/?username=iamsauravgc\&style=for-the-badge\&color=7C3AED)
+![](https://img.shields.io/github/followers/iamsauravgc?style=for-the-badge\&color=7C3AED)
+![](https://img.shields.io/github/stars/iamsauravgc?style=for-the-badge\&color=7C3AED)
 
 </div>
 
@@ -72,11 +72,11 @@ My work focuses on building end-to-end applications that combine data pipelines,
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saurav856&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamsauravgc&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=saurav856&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsauravgc&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav856&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsauravgc&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -86,7 +86,7 @@ My work focuses on building end-to-end applications that combine data pipelines,
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=saurav856&theme=tokyonight&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=iamsauravgc&theme=tokyonight&no-frame=true&column=4"/>
 
 </div>
 
@@ -96,7 +96,7 @@ My work focuses on building end-to-end applications that combine data pipelines,
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saurav856&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamsauravgc&theme=tokyo-night&hide_border=true"/>
 
 </div>
 ---
@@ -113,7 +113,7 @@ My work focuses on building end-to-end applications that combine data pipelines,
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/saurav856">
+<a href="https://github.com/iamsauravgc">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
