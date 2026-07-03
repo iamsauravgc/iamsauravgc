@@ -65,17 +65,7 @@ My work focuses on building end-to-end applications that combine data pipelines,
 # GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iamsauravgc&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=iamsauravgc&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iamsauravgc&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy-winning.vercel.app/?username=iamsauravgc&theme=tokyonight&no-frame=true&column=4"/>
 </div>
 
 ---
