@@ -1,4 +1,4 @@
-# Hi there, I'm Saurav G.C. 👋
+# Hi there, I'm Saurav G.C.
 
 <div align="center">
 
@@ -7,10 +7,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Data+Analytics+%26+ML+Engineering;Building+Production-Ready+Projects"/>
 
 <br/>
-
-![BCU](https://img.shields.io/badge/Birmingham_City_University-AI_Student-7C3AED?style=for-the-badge)
-![Sunway College](https://img.shields.io/badge/Sunway_College-Kathmandu-6366F1?style=for-the-badge)
-![Computer Science](https://img.shields.io/badge/Computer_Science-Artificial_Intelligence-A855F7?style=for-the-badge)
 
 ![Location](https://img.shields.io/badge/Location-Kathmandu,_Nepal-4F46E5?style=for-the-badge)
 
@@ -41,24 +37,6 @@
 I am a Computer Science undergraduate specializing in Artificial Intelligence with a strong passion for software engineering, machine learning, data engineering, and scalable product development.
 
 My work focuses on building end-to-end applications that combine data pipelines, machine learning models, backend APIs, databases, and modern frontend technologies. I enjoy transforming raw data into actionable insights while designing systems that are practical, maintainable, and production-oriented.
-
-I actively build projects involving:
-
-* Machine Learning & Predictive Analytics
-* Full-Stack Application Development
-* Data Engineering & ETL Pipelines
-* REST API Design & Development
-* Business Intelligence & Dashboarding
-* Cloud-Native & DevOps Practices
-
-### Open To
-
-* Software Engineering Internships
-* Machine Learning Engineering Roles
-* Data Science Opportunities
-* Open Source Collaboration
-* Research Projects
-* Full-Stack Development Projects
 
 ---
 
@@ -121,18 +99,6 @@ I actively build projects involving:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurav856&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/saurav856/saurav856/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-
 ---
 
 # Connect
